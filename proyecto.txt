@@ -1,0 +1,670 @@
+ TAREAS A REALIZAR EN EL PROYECTO
+
+ 1_crear el repositorio en GITHUB
+ 2_clonar el repositorio de virual studio code
+ 3_dar un nombre a la playlist
+ 4_buscar 10 canciones de la playlist con sus letras y imagenes
+ 5_creo las carpetas necesarias:asse/img asse/audio(mp3), css/
+ 6_seleccionar la paleta de colores.elegir 2 paletas de colores E179B4 B271CB
+ 7_empezar a construir el index.html
+
+1-Funky de Antes
+Canción de Menor
+
+Esto es funky de antes
+Pa que retumbe allá en el medio de los cante
+A nena final le gustan nene maleante
+Somo' antigiles y paramo con to' los gangster
+Esto es funky de antes
+Pa que retumbe allá en el medio de los cante
+A nena final le gustan nene maleante
+Somo' antigiles y paramo con to' los gangster
+Ella es maleante
+Y es lo que me gusta
+Que baja pal bloque por que no le asusta
+Y ando con el menor
+Flow buena conducta
+Y viene con nosotros la nena es astuta
+Le gustan nene malo
+Y vestirse caro
+La ropa de marca
+Y en el cante el cámaro
+Y aunque a la gente le paresca raro
+Con los gangster ella siempre paro
+Ve y dile ve y dile
+Que se mantenga chill y no se descarrile
+(No no)
+Que aunque el esté en busca de lo mile
+Ya tu ta clara y para con los antigile
+Ve y dile ve y dile
+Que se mantenga chill y no se descarrile
+(No no)
+Que aunque el esté en busca de lo mile
+Ya tu ta clara y para con los antigile
+Esto es un funky de ante'
+Pa que retumbe allá en el medio de los cante
+A nena fina le gustan nene Maliante
+Somo antigiles y paramos con to los gangster
+Esto es un funky de ante'
+Pa que retumbe allá en el medio de los cante
+A nena fina le gustan nene Maliante
+Somo antigiles y paramos con to los gangster
+Ella para con los antigiles
+Y anda es busca de los miles
+No hay nadie que a ella la asimile
+Tampoco la elimine
+Anda lejos de la movie y el cine
+Eyy a tu novio ve y dile
+Que tenemos misile y también proyectile
+Y ahora ando coronao' sin corona
+Esa baby me detona y la entona
+Se pone juguetona con una flor y una corona
+Eyy yo soy su paciente y ella mi doctora
+Le doy a todas hora en la cama o en el bora
+En cualquier situación su piquete me enamora
+Aaaaa Traidora
+En breve llega la lata, la plata, las gata
+Ella se arrebata en bata y es tremenda sata
+Me araña toa' la espalda como gata
+Es una maldita rata pero yo la amo cuando mamá
+En la cama una dama sin drama
+Que no busca fama solo alta gama pidiendo más marihuana
+Que le cura toa las nana
+Escucha un funk de antes
+Pa que suene en el medio de los cante
+A nena fina le gustan nene maleante
+Somos antigile y paramo' con to los gangster
+Eyy
+Esto es funky de antes
+Pa que retumbe allá en el medio de los cante
+A nena final le gustan nene maleante
+Somo' antigiles y paramo con to' los gangster
+Nefel y Enhe
+Ocena music los controle'
+Llego letan con el menor y se atormentan
+Escuchaste bien la letra jaja
+Bebecitaaa
+Pa las antigilas y antigile la realesa nos define.
+
+2-C14TORCE V
+Ya no quiero seguir con este juego
+Por tu boca me estoy prendiendo fuego
+Porque en frente de la gente no te puedo mirar
+Y decirte que te sueño, te pienso
+Y la tarde que yo te negué un beso
+Porque sé que tenés a alguien y desearte está mal
+
+Si supieran que dentro de esta discoteca
+Todos me velan y yo solo veo
+La cara que pones si alguien se acerca
+Me daña la mente, te quiero besar
+Se vuelve imposible siempre que estás cerca
+Romperte esa boca empiezo a imaginar
+Pero a pesar de lo que te pude dar
+No vamos a vernos, no vamos a hablar
+Si supieran que dentro de esta discoteca
+Todos me velan y yo solo veo
+La cara que pones si alguien se acerca
+Me daña la mente, te quiero besar
+Se vuelve imposible siempre que estás cerca
+Romperte esa boca empiezo a imaginar
+Pero a pesar de lo que te pude dar
+
+Y te juro que a nadie yo le conté lo de aquel día
+Que estuvo tan cerca tu boca y la mía
+Yo fingí, pero por dentro me moría
+Me lo tuve que aguantar, no quise lastimarla
+Y ahora vos haces la tuya y yo la mía
+Y si fuera distinto qué lindo sería
+Pero no lo cambiaría
+Me puse en su lugar, yo tuve que pasarla
+Pero si fuera tu mujer
+Tú fuera el más leal
+No tendría que buscar lo que en mí buscaste
+Estando con ella ya nunca más
+Y ya me rescaté
+Que no podés soportar
+La' gana' de pedirle a alguien que me diga
+Que tampoco pudiste olvidar
+
+Si supieran que dentro de esta discoteca
+Todos me velan y yo solo veo
+La cara que pones si alguien se acerca
+Me daña la mente, te quiero besar
+Se vuelve imposible siempre que estás cerca
+Romperte esa boca empiezo a imaginar
+Pero a pesar de lo que te pude dar
+No vamos a vernos, no vamos a hablar
+Si supieran que dentro de esta discoteca
+Todos me velan y yo solo veo
+La cara que pones si alguien se acerca
+Me daña la mente, te quiero besar
+Se vuelve imposible siempre que estás cerca
+Romperte esa boca empiezo a imaginar
+Pero a pesar de lo que te pude dar.
+
+3-Ahora dice
+Baby
+Chris Jeday (Chris Jeday)
+Austin Baby
+J Balvin man
+Ozuna baby
+No quiere saber na' de mi
+Y dime que fue lo que yo hice mal
+Te pusieron en contra de mi
+Al que fue no se la voy a perdonar
+Ahora dice que no me conoce
+No no no no no
+Y si me ha visto se supone
+Que en el pasado fue
+Yo si me acuerdo como lo hacíamos
+Como en la cama nos matábamos
+Ahora dice que no me conoce
+No no no no no
+Y si me ha visto se supone
+Que en el pasado fue
+Yo si me acuerdo como lo hacíamos
+Como en la cama nos matábamos
+Sé que te pasas negando
+Todo lo que tú y yo hacíamos
+Queda en tu mente grabado
+Todas las veces en que nos desvestíamos
+Ahora me paso pensando
+Como tú puedes vivir así
+Diciendo que no sabiendo que entre sabanas tú te entregabas a mí
+Solo yo he podido llegarle
+Tu cuerpo sabe elevarse
+Y cuando tus piernas temblaban
+No decías nada ya no
+Y ahora que ando con el dinero
+No quiero interrupciones
+Esa es la prioridad
+Pasarte a lista de opciones
+Estoy con la colombiana que se va mañana
+Y la cubana llega a París
+Llámate al ruso que baje los kilos de oro que llega la bad de Brasil
+Solo yo he podido llegarle
+Tu cuerpo sabe elevarse
+Y cuando tus piernas temblaban
+No decías nada nada no no...
+Ahora dice que no me conoce
+No no no no no
+Y si me ha visto se supone
+Que en el pasado fue
+Yo si me acuerdo como lo hacíamos
+Como en la cama nos matábamos
+Y ahora dice que no me conoce
+No no no no no
+Y si me ha visto se supone
+Que en el pasado fue
+Yo si me acuerdo como lo hacíamos
+Como en la cama nos matábamos
+Por más que me niegues a mi...
+No podrás escaparte
+Si era tu luz de mi sombra
+Y me seguías a todas partes
+Nos lograron separar eh
+Tu no quisiste escuchar eh
+Fue más importante que dijo la gente que a donde podríamos llegar
+En el mundo de mí están hablando
+Diciendo mil cosas
+Que me ven por aquí, que me ven por allá
+Por mi vida famosa
+Tú me conoces de años atrás haber como es la cosa
+Tú sabes que yo soy real
+Te lo digo una vez
+Ay sé que nuestro amor es periodico de ayer
+Que tu no lo quieres leer
+Que ni por la calle tú me quieres ver
+Si sales de party me escuchas a mí
+Siempre te preguntan por mí, baby
+Dime que se siente
+Soy el fantasma que te atormenta a ti...
+Dime que paso mami todo iba normal
+Te hablaron de mi, te dejaste llevar
+Tu cuerpo me estaba empezando amar
+Y por culpa de la gente ahora te toca olvidar
+Yo sé que eres infeliz
+Pero te pasas mintiendo
+Fingiendo que eres feliz
+Mami yo no te entiendo
+Ahora él te pone a llorar
+También te pone a sufrir
+Mientras yo te ponía a viajar
+Yo linda te hacia lucir
+Solo yo he podido llegarle
+Tu cuerpo sabe elevarse
+Y cuando tus piernas temblaban
+No me decías nada nada nada nada
+Ahora dice que no me conoce
+No no no no no
+Y si me ha visto se supone
+Que en el pasado fue
+Yo si me acuerdo como lo hacíamos
+Como en la cama nos matábamos
+Y ahora dice que no me conoce
+No no no no no
+Y si me ha visto se supone
+Que en el pasado fue
+Yo si me acuerdo como lo hacíamos
+Como en la cama nos matábamos
+J Balbin man
+Ozuna (Ozunaman)
+Ozuna
+Arca man
+Austin baby
+Asi es como el
+Chris Jeday.
+
+4-Si Supieras de Fili Wey
+Si Supieras
+Fili Wey (ft. Callejero Fino )
+Todavía no me olvido de cuando lo hicimos
+aquella noche,los vidrios empañados por que
+no nos aguantamos las ganas en el coche,
+nuestro cuerpo sudando,amando,nuestras
+manos ocupadas por que se estaban tocando,
+si tu supieras que me pasa cada vez que te veo,
+
+quiero tenerte arriba mio y llenarte de besos,
+en esas curvas es donde quiero morirme,
+con tu sonrisa juro vas ah deretirme,
+como esa nalgas lo nuestro es asi de firme,
+nuca vas a erirme matame si no te sirve,si tu sintieras lo mismo que yo estarias aqui conmigo abrazandome cuando tenga frio que ese bobo tenga su merecido, armalo por fa y venite conmigo no hay vuelta atras borra cassette que nos fuimos como Bonnie & Clyde un poco mas agrecivo,vivo al limite pero vivo,Hola reyna como estas? hace mucho tiempo no te veo revalsado de cenizas el cenicero,se que te intriga saber de mi pero quiero escuchar lo tuyo primero decime que ya lo pensaste y por eso es que me llamaste que te decidiste y me elegiste a mi vamo' a celebrar si me decis que si,tengo money,shampoo,beili,un reloj la cavida en club x4
+Se pone atrevida cuando esta conmigo y yo si estoy con ella soy mas atrevido,a 120 en el auto vamo' haciendo ruido si te preguntan quien soy decile es un amigo y que nadie se entere que esto es algo nuestro y ah tu gato que se quede quieto,si quiere frontiar mamita yo le presto que la guerra estan cara como los secuestros,lo mas lindo de tus besos son cuando tocan mi boca y me gusta tu risa si soy yo quien la provoca que lindo es tu cuerpo cuando te saco la ropa mi chuleria en pot y no hay otra,hola reina como estas? hace tiempo no te veai brillar que bonito que te queda ese color labial,para vos me vesti caro me puse el mejor perfume y unas zapatillas que ni hay que la hay toy chetto mal,el nene del problema que conociste antes quedo atras ya no esta mas ahora soy cantante tengo todo lo que quiero y muchas cosas que ni te imaginas,con Fili de club voy de retro school 732 full x2
+
+5-Infiel (remix) (part. Eix, Brytiago, Noriel, Kevvo y Jay Wheeler)
+No me digas que me ama'
+Porque sabes que no puedo amarte
+Yo la quiero a ella
+Pero contigo es que yo viajo hacia Marte
+No dañes lo que tenemos
+Pa' mí, tú eres aparte
+Y aunque no te puedo dar amor
+Haciéndolo estamos mejor, bebé
+
+Contigo es que yo me presto pa' ser infiel
+Pa' serlo hoy, y mañana también
+Contigo es que me quiero ir a to'a
+No importa el día ni la hora
+
+Contigo es que yo me presto pa' ser infiel
+Pa' serlo hoy, y mañana también
+Contigo es que me quiero ir a to'a
+No importa el día ni la hora
+
+Todos los días me pregunto por qué fue
+Que no te conocí a ti antes que a ella
+Cuánto nos va a durar el juego, yo no sé
+Pero, mientras tanto, voy a abrirle otra botella
+
+Y dime una sola vez que te hayas sentido como la segunda
+Y sé que cuando lo hacemos, todo se te inunda
+Es que lo nuestro nadie entiende
+Solamente llama cuando quieras verme
+
+Y yo le llego, to' tu cuerpo lo navego
+Estoy despecha'o por ti, ese culo me tiene ciego
+No sé si te amo o me volví adicto al juego
+Pero estando con ella, te extraño y no te lo niego
+
+(No-No-Noriel)
+
+¿Por qué no te conocí antes?
+Eres perfecta pa' mí
+Sabe' que no puedo quedarme
+Hay otra que espera por mí, yeh
+
+De todas maneras
+Llegué hasta aquí solo pa' que tú me vieras
+Aunque en mi vida no seas la primera
+Siempre haces algo pa' ganar delantera
+
+Si alguien se entera, nunca nos conocimo'
+Mucho menos en las redes nos seguimo'
+Y si algún día toca cortar contigo
+Que se joda porque rico lo hicimo', rico lo hicimo'
+
+Nadie tiene que enterarse
+Esto se queda entre nosotros (entre nosotros)
+Tú me llama' pa' desquitarte
+Tú no eres mía y yo no puedo ser tuyo tampoco
+
+Con él, todo es una monotonía, te cansa la rutina
+Conmigo el sexo no termina
+Dame la verde pa' cogerte en la cocina
+Y que mi nombre se lo aprenda la vecina
+
+Que me gustaras tanto, no lo esperaba
+Cuando me lo mama', me lo deja' lleno de baba
+Hacemos las poses que te dé la gana
+Contigo estoy puesto pa' romper la cama
+
+Se acostumbró a la receta
+Ahora no quiere que otro cabrón se lo meta
+Baby, mala mía, pero yo no quiero que más nadie sepa
+Que esto no es pa' serio, no te comprometa' (el cotidiano, baby)
+
+Contigo es que yo me presto pa' ser infiel
+Pa' serlo hoy, y mañana también
+Contigo yo que me quiero ir a to'a
+No importa el día ni la hora
+
+Tú sabes que yo
+Estoy hookea'o contigo
+Nadie tiene que saber
+Si te preguntan, somos amigos
+
+Y no dejamos que se acabe
+Es que si no lo hacemos, nada es igual
+Vístete, que te quiero buscar
+Solo sexo, no te puedo amar
+
+Yo no te pido amor, porque no estoy pa' eso
+Mejor te busco y en el carro te doy beso'
+Practicamo' todas las posiciones
+Y si me gusta mucho, mañana regreso
+
+Lo de nosotro' es ilegal, una glope con chip
+Infiel esta aventura, siempre la tengo en repeat
+Durmiendo con el enemigo
+Cada vez que se acueste, en la RD te ligo
+
+¿Cómo pasó esto?
+Todo empezó con un shot, un beso y un reto
+Código secreto
+Estoy con ella, pero a ti en la mente
+Es a quien se lo meto
+
+Hola
+Llámame a cualquier hora
+Pa'l carajo lo que la gente rumora
+Si lo de nosotros no es de ahora
+
+Hola
+Llámame a cualquier hora
+Pa'l carajo lo que la gente rumora
+Si lo de nosotros no es de ahora
+Porque
+
+Contigo es que yo me presto pa' ser infiel
+Pa' serlo hoy, y mañana también
+Contigo es que me quiero ir a to'a
+No importa el día ni la hora
+
+Contigo me presto pa' ser infiel
+Pa' serlo hoy, y mañana también
+Contigo yo me quiero ir a to'a
+No importa el día ni la hora, ooh, yeh
+
+(Dile)
+Yo soy Eix
+Ra-Rauw Alejandro
+Stary en el beat
+Con Eix (Duas Entertaiment)
+Brytiago, baby
+Duas Entertaiment con los fuckin' Sensei
+Con los fuckin' Sensei
+Jay Music, dímelo Colla (este el remix)
+La Visión.
+
+6-Universo Paralelo
+Canción de La K'onga
+
+Compraría un palco en tu ventana
+Para verte abrir los ojos con el sol cada mañana
+Pero tu estrella es tan lejana
+Que juro que me lo guardo con dolor, aunque me sangra
+El corazón
+Cuando te tengo al ladito hay explosión
+Una simbiosis tan perfecta en la ecuación
+Pero sé bien que ni me prestas atención
+Me daría tal vergüenza
+Si te dieras cuenta ahora
+Que no puedo ni mirarte
+Que enloquezco por completo
+Eres el centro del cosmos
+Mi universo paralelo
+Me obligo a no gritarte que te quiero
+Que te quiero, oh-uh-oh
+Mi universo paralelo
+Por cobardía o porque hablas
+Y cuentas que en el amor, nada, nada te falta
+Bomba de tiempo en mi alma
+Que juro que me lo guardo con dolor
+Aunque me sangra
+El corazón
+Cuando te tengo al ladito, hay explosión
+Una simbiosis tan perfecta en la ecuación
+Pero sé bien que ni me prestas atención
+Me daría tal vergüenza
+Si te dieras cuenta ahora
+Que no puedo ni mirarte
+Que enloquezco por completo
+Eres el centro del cosmos
+Mi universo paralelo
+Me obligo a no gritarte que te quiero
+Que te quiero, oh-uh-oh
+Mi universo paralelo
+¡Arriba, La K'onga!
+¡Vamos, Nahuel!
+¡Eh!
+Eres el centro del cosmos
+Mi universo paralelo
+Me obligo a no gritarte que te quiero
+Que te quiero, oh-uh-oh
+Mi universo paralelo
+Uh-uh-uh
+
+7-Felices x Siempre
+Canción de María Becerra
+
+Lo nuestro era como esas historias con las que sueña la gente
+Pero ahora estamos pasados de moda como casarse a los 20
+De nosotros hablaban en la tele y en la casa del presidente
+Sabemos qué fue lo que nos mató, que éramos tan diferentes
+Si teníamos problemas, resolvíamos
+Y si algo nos gustaba, lo comprábamos
+Pasaban los días, más no' enamorábamos
+Hasta que de nuevo peleábamos
+Todo cambió tan de repente
+Y quedaron tantas cosas pendientes
+Pero este cuento ya se terminó
+Sin el "felices por siempre"
+No queda nada de lo que fuimos
+Tú ya no estás, así es el destino
+No hay vuelta atrás, sigue tu camino
+Lo nuestro ya estaba jodido, pero nunca lo entendimos, baby
+No queda nada de lo que fuimos
+Tú ya no estás, así es el destino
+No hay vuelta atrás, sigue tu camino
+Lo nuestro ya estaba jodido, pero nunca lo entendimos, baby
+Antes, los que nos conocían siempre nos decían
+Que esto así no funcionaría
+Éramos la noche y el día, que esto se moría
+Pero los que no lo veíamos éramos nosotros dos
+Seguíamos intentándolo, ey
+Hasta que llegó la despedida
+Queríamos que fuera de por vida, pero
+Oh, wah
+Nos llenaba de vida y ahora está matándonos
+Era sincero, pero terminó mintiéndonos
+Y todo lo que hicimos por amor de nada nos sirvió (Lady)
+Si teníamos problemas, resolvíamos
+Y si algo nos gustaba, lo comprábamos
+Pasaban los días, más no' enamorábamos
+Hasta que de nuevo peleábamos
+Todo cambió tan de repente
+Y quedaron tantas cosas pendientes
+Pero este cuento ya se terminó
+Sin el "felices por siempre"
+No queda nada de lo que fuimos
+Tú ya no estás, así es el destino
+No hay vuelta atrás, sigue tu camino
+Lo nuestro ya estaba jodido, pero nunca lo entendimos, baby
+No queda nada de lo que fuimos (de lo que fuimos)
+Tú ya no estás, así es el destino (tú ya no estás)
+No hay vuelta atrás, sigue tu camino
+Lo nuestro ya estaba jodido, pero nunca lo entendimos, baby
+Lady, Lady
+This is the Big One
+La nena de Argentina, ey-yeh
+Y todo lo que hicimos por amor de nada nos sirvió
+
+8-Desnudarte
+Canción de Brytiago y Jay Wheeler
+
+En casa preguntan por ti, yo le' digo que te perdí
+Todo fue culpa mía, me siento tan porquería
+Búrlate de mi, sácame en cara que ya ere' feliz
+A tu amiguita yo vi, la que hablaba mal de mí
+Le dije que mala mía, que ella razón tenía
+Ahora se burla de mí
+Sacándome en cara que soy infeli'
+Y por mi madre que ya quiero olvidarte, sí
+Pero son má' la' gana' de desnudarte aquí, baby
+Esta mierda ha sido un proceso
+Dame un break que ya estoy en eso
+Aunque prefiero levantarme con uno de tus beso' (Beso)
+Y por mi madre que yo quiero olvidarte, sí
+Pero son má' la' gana' de desnudarte aquí, baby
+Esta mierda ha sido un proceso
+Dame un break que ya estoy en eso
+Aunque prefiero levantarme con uno de tus beso'
+Vi-Vi-Viendo tus historias en Instagram
+Cuando jangueo te olvido
+Pero vuelvo y te recuerdo cuando los días se van
+Ya tus fotos en mi espejo no están
+Ya no quiero sentirme solo
+Pero te pienso cada ve' que enrolo
+Y me cago en tu recuerdo
+Si te veo con otro me muerdo
+Sácame en cara que merezco llorar
+Que ante' dolía, pero ya te da igual
+Te convertiste en una hija 'e puta
+Y sé que todo fue por mi culpa
+Es un proceso olvidar tus beso'
+Y por mi madre que yo quiero olvidarte, sí
+Pero son má' la' gana' de desnudarte aquí, baby
+Esta mierda ha sido un proceso
+Dame un break que ya estoy en eso
+Aunque prefiero levantarme con uno de tus beso'
+Este debe ser el infierno
+Ya tu mai' no dice que soy el yerno
+En la mente imagino to'a las pose'
+Y me siento como noviecito 'e doce
+Acaba'o de dejar, el corazón a mil
+Baby, vuelve pa'cá, que yo quiero un refill
+Al instante, te fuiste despué' que me acostumbraste a ti
+Yo fui el primero que celó y ahora extraño hasta su pelo
+Si la perdí fue por celos, si tú la ve', pue' díselo
+Que yo quiero que ella vuelva a mí
+Que yo quiero que ella vuelva a mí
+Ya no quiero lo' Netflix and chill
+Con la metiche de tu amiga te mandé a decir
+Y por mi madre que yo quiero olvidarte, sí
+Pero son má' la' gana' de desnudarte aquí, baby
+Esta mierda ha sido un proceso
+Dame un break, que ya estoy en eso
+Aunque prefiero levantarme con uno de tus beso'
+
+9-Plan A
+Canción de Paulo Londra
+
+Quiero saber qué soy para ti
+Porque siempre que no' vemos se me olvida decir
+Que ando muy confundido, tu' besos son má' fríos
+Y empiezo a creer, que soy uno má' de tus amigos
+Ando siempre en la nada, se hace de noche y no llama
+Me dice, "Mejor mañana", que ya tiene otro' planes
+Y yo esperaba, ser el primero
+Tu plan A, no el tercero, pero estamo' lejos
+De sentir lo mismo, es siempre lo mismo
+Esperaba ser el primero
+Tu plan A, no el tercero, pero estamo' lejos
+De sentir lo mismo, es siempre lo mismo
+Esperaba, por lo menos
+Una indicación para ver cómo hacemos (plo, plo, plo)
+Si debo de mantenerme cerca o má' lejos
+Porque ahora besa' rápido y antes era lento (oh)
+Ya no lo entiendo, 'toy que me pierdo (pierdo)
+En esas noches, cuando fumo y bebo
+Parece que soy un zombi, ando medio muerto
+Pasa que intento entenderte
+Y no te entiendo, ¿cuál es mi puesto?
+Si voy primero o voy tercero
+No te entiendo, ¿cuál es mi puesto?
+Si voy primero o voy tercero
+Ando muy confundido, tu' besos son má' fríos
+Y empiezo a creer, que soy uno má' de tus amigos
+Ando siempre en la nada, se hace de noche y no llama
+Me dice "mejor mañana", que ya tiene otros plane'
+Y yo esperaba, ser el primero
+Tu plan A, no el tercero (¡no!) pero estamos lejos
+De sentir lo mismo, es siempre lo mismo
+Esperaba, ser el primero
+Tu plan A, no el tercero, pero estamos lejos
+De sentir lo mismo, es siempre lo mismo
+Quiero saber qué soy para ti
+Porque siempre que no' vemos se me olvida decir
+
+10-Homerun
+Paulo Londra
+
+Yo'
+Ahora sí que estoy consciente, -ciente
+Que tengo familia, mis amigo', mi' motivo'
+Que son má' que suficiente, -ciente
+Para hacer lo que má' quiero porque soy valiente
+Eso ya lo sé, ya lo sé, ma', lo sé
+Que cuando caeré, ello' ahí estarán
+Dispuesto', ¿para qué"?, para levantarme
+Cuando esta' pierna' no me funcionen más
+Entonces, salgo pa' el frente, me hice má' fuerte
+No quiero ser un peso para toda mi gente
+Bateé de repente, lo' problema' de siempre
+Le di con toda la fuerza de este ser viviente
+Decidido a mi homerun, ey
+Decidido a mi homerun
+Decidido a mi homerun, yo'
+Decidido a mi homerun
+Y lo voy a hacer por mi mamá, por mi papá
+Por mi hermana, por mi' pana', por mis gana'
+Por las buena', por las mala', por la pena
+Por má' gana', por mirada', ey
+Por la risa, por lo' llanto'
+Por mentira', por encanto'
+Por heridas, por ayer, por el hoy
+Porque sé que ahora voy, que ahora voy
+Decidido a mi homerun, ey
+Decidido a mi homerun
+Decidido a mi homerun, yo'
+Decidido a mi homerun
+
+11-Ese maldito momento
+Canción de No Te Va Gustar
+
+La ruta semi vacía, como mi vida sin vos
+Quién hubiera imaginado
+Que llegaría el momento
+Ese maldito momento de mirar para un costado
+Y no verte en mis mañanas, ni sonreír con tu voz
+Es sentirme acorralado
+Es por no haber apreciado
+Y yo mismo haber tirado lo que la vida me dio
+No sigo más, no tengo resto
+Soy sólo esto, barro nomás
+No tengo nada, no lo merezco
+Vos no me tengas piedad
+¿Será sólo mi torpeza o será mi forma de andar?
+No pude seguir tus pasos
+Me fui cayendo a pedazos
+Sólo quedaron retazos y no los pude juntar
+Si no estás en mis mañanas, si no me río con vos
+Si me siento acorralado
+Es por no haber apreciado
+Y yo mismo haber tirado lo que la vida me dio
+No sigo más, no tengo resto
+Soy sólo esto, barro nomás
+No tengo nada, no lo merezco
+Vos no me tengas piedad.
