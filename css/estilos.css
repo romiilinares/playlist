@@ -1,0 +1,36 @@
+/* HEADER*/
+header{
+    text-align: right;
+    background-color: #F7DCDE;
+    height: 100px;
+    text-align:center
+}
+/*MAIN*/
+main{
+    display: flex;
+    justify-content: center;
+
+}
+
+table{
+    background-color:#EFD6F8;
+    border-color: #D2F7F3;
+    border-top: 10px;
+    border-collapse: collapse;
+}
+th{
+    background-color: #C1A7D9;
+    color:#D2F7F3
+}
+td{
+    border-color: #D1CAF0;
+    border-style: solid;
+    text-align: center;
+}
+/*FOOTER*/
+footer{
+    text-align: right;
+    background-color:#F7DCDE; 
+    height: 200px;
+    text-align: center;
+}
