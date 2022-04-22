@@ -1,3 +1,10 @@
+body{
+    background-attachment: fixed;
+    background-size: cover;
+     background-image:url(../asset/imagenes/fondo.webp)
+
+    
+}
 /* HEADER*/
 header{
     text-align: right;
@@ -15,7 +22,7 @@ align-items: center;
 table{
     background-color:#EFD6F8;
     border-color: #D2F7F3;
-    border-top: 10px;
+    border: top 10px;
     border-collapse: collapse;
 }
 th{
@@ -28,6 +35,9 @@ td{
     text-align: center;
 }
 p{
+    text-align: center;
+}
+h1{
     text-align: center;
 }
 /*FOOTER*/
